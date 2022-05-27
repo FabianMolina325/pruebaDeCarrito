@@ -1,6 +1,6 @@
 let form = document.getElementById("formulario-tarjeta");
   
-form.addEventListener("submitButton", (event) => {
+form.addEventListener("submit", (event) => {
  
   event.preventDefault();
   
